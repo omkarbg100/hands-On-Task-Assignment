@@ -1,5 +1,4 @@
-# StockFlow Technical Assessment Response
-**Candidate:** Antigravity AI
+**Candidate:** Omkar Gaikwad
 **Date:** April 8, 2026
 **Subject:** B2B Inventory Management Platform Backend Design & Debugging
 
